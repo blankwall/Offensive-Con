@@ -1,0 +1,21 @@
+Status   -- Application
+
+done	 -- com.barebones.authd
+cursory	 -- com.bombich.ccchelper
+cursory	 -- com.box.sync.bootstrapper
+done	 -- com.bresink.system.privilegedtool-ts5
+awaiting patch	 -- com.feingeist.shimo.helper
+done	 -- com.github.IngmarStein.Monolingual.Helper
+patched	 -- com.gog.galaxy.ClientService
+done	 -- com.lindegroup.AutoPkgr.helper
+patched	 -- com.macpaw.CleanMyMac4.Agent
+done	 -- com.microsoft.autoupdate.helper
+done	 -- com.microsoft.office.licensingV2.helper
+awaiting patch	 -- com.pixar.renderman.InstallerHelper
+cursory	 -- com.simplexsolutionsinc.vpnguardMac.vpnservice
+cursory	 -- com.sparklabs.ViscosityHelper
+swift	 -- com.tunnelbear.mac.tbeard
+awaiting patch	 -- com.wacom.DataStoreMgr.app
+awaiting patch	 -- com.wacom.DisplayMgr.app
+awaiting patch	 -- com.wacom.UpdateHelper.app
+done	 -- vyprvpnservice
