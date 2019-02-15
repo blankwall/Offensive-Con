@@ -19,3 +19,4 @@ awaiting patch	 -- com.wacom.DataStoreMgr.app
 awaiting patch	 -- com.wacom.DisplayMgr.app
 awaiting patch	 -- com.wacom.UpdateHelper.app
 done	 -- vyprvpnservice
+no patch -- com.smr.liquidvpn.OVPNHelper
